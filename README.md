@@ -3,7 +3,7 @@ Vue.js with PHP Api
 
 [Vue.js (v2.2.1)](https://vuejs.org) ve [vue-resource (v1.2.1)](https://github.com/pagekit/vue-resource) kullanarak hazırlamış olduğum basit bir uygulama örneğidir. Php api üzerinden veritabanında kayıtlı olan kullanıcılar alınır ve veritabanına kullanıcı eklenir. Vue.js'i PHP ve MySQL ile birlikte nasıl kullanabilirim diyen geliştirici adaylarına faydalı olması dileğimle.
 
-Ayrıca Vue.js ile ilgili güzel eğitim videoları hazırlayan sevgili [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)'in YouTubu kanalına abone olmayı unutmayın. Oldukça faydalı eğitimler var.
+Ayrıca Vue.js ile ilgili güzel eğitim videoları hazırlayan sevgili [Fatih Acet](https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ)'in YouTubu kanalına abone olmayı unutmayın. Oldukça faydalı eğitimler var. Göz atmanızı tavsiye ederim.
 
 ### Veritabanı Bağlantısı
 Veritabanı bağlantısını `api/api.php` dosyasını düzenleyerek yapabilirsiniz.
